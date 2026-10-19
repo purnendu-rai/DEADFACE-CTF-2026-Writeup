@@ -6,7 +6,7 @@
 
 This repository contains detailed writeups for the **DEADFACE CTF 2026** challenges
 I solved during the event (17 Oct 19:30 IST → 19 Oct 05:30 IST, ~34h online jeopardy
-on [deadface.io](https://deadface.io)). Played **solo**; every flag was submitted
+on [deadface.io](https://deadface.io)). every flag was submitted
 by hand on the platform.
 
 All challenges are organized by category, with clean writeups covering the approach,
